@@ -1,4 +1,4 @@
-# React Tutorial - Create a Point of Sale System for Beginners in 1 Hour (React POS)
+# Create a Point of Sale System for Beginners in 1 Hour (React POS)
 
 This project was built for teaching React for beginners in 1 Hour. Students learn how to set up a real world react project and build a Point of Sale System. 
 
